@@ -1,0 +1,12 @@
+---
+layout: post
+title: Initial post
+---
+
+{% highlight ruby %}
+module Resource
+  def abc
+    puts 'abc'
+  end
+end
+{% endhighlight %}
